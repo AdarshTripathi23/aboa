@@ -8,3 +8,4 @@ Full paper may be found here: http://bit.ly/aboagps
 <p align="center">
   <img src="rs10121937/figures/aboa.png" width="480" title="Aboa research station in Antarctica">
 </p>
+
